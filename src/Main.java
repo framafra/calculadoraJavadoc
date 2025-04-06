@@ -1,5 +1,11 @@
-
+/** Clase Principal
+* Los comentarios son para la práctica de documentación de código de EDD
+ * @author Paco
+ * @version 1.0
+*/
 public class Main {
+    
+
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
 
